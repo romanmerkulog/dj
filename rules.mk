@@ -1,0 +1,4 @@
+POINTING_DEVICE_ENABLE = yes
+POINTING_DEVICE_DRIVER = custom
+I2C_DRIVER = chibios
+SRC += pct1336qn.c
